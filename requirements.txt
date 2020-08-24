@@ -8,7 +8,7 @@ bleach==1.5.0
 cachetools==4.1.1
 certifi==2020.6.20
 chardet==3.0.4
-Django==3.0.3
+Django==3.0.7
 enum34==1.1.10
 gast==0.2.2
 google-auth==1.20.1
